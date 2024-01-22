@@ -50,3 +50,6 @@ Nota: Al comprimir/descomprimir el proyecto, hemos observado que a veces las car
 ##
 @author: Oscar Julian  
 @date: Julio 2022
+
+![Captura2](https://github.com/oscarjuly23/ArrakisSystem/assets/39187459/129472f8-3dbf-4e09-9b25-f4a574b7bc5c)
+
